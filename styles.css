@@ -1,9 +1,14 @@
 /* your code */
-thead {
+/* thead{
       background-color: #215A8E;
 	border:none;
       color: #ffffff;
-    }
+    } */
+th{
+	background-color: #215A8E;
+	border:none;
+      color: #ffffff;
+}
 .left{
 	text-align:left;
 }
